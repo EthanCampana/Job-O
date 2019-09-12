@@ -1,0 +1,20 @@
+{
+    "name": "Job-O",
+    "version": "1.0.0",
+    "description": "Scrapes jobs off of jobsites and organizes them",
+    "main": "index.js",
+    "author": "Ethan Campana <ethancampana@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "clear": "^0.1.0",
+        "clui": "^0.3.6",
+        "figlet": "^1.2.3",
+        "fs": "0.0.1-security",
+        "inquirer": "^7.0.0",
+        "lodash": "^4.17.15",
+        "minimist": "^1.2.0",
+        "osmosis": "^1.1.10",
+        "shelljs": "^0.8.3"
+    }
+}
